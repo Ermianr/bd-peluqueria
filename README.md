@@ -1,1 +1,1 @@
-# bd-peluqueria
+# Base de datos de la peluqueria (Proyecto)
